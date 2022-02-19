@@ -1,11 +1,24 @@
 public class FirstClass {
     public static void main(String[] args) {
-        System.out.println("Hello from FirstClass!");
+        System.out.println("Weight Price Year");
 
-        if (1 > 2){
-            System.out.println("Niesamowite! Jeden jest większe niż dwa!!!");
-        } else {
-        System.out.println("Wszystko po staremu, jeden jest mniejsze niż dwa.");
-        }
+        Notebook notebook = new Notebook( 600, 900, 2000);
+        System.out.println(notebook.weight + " " + notebook.price + "  " + notebook.year);
+        notebook.checkWeight();
+        notebook.checkPrice();
+        notebook.checkYear();
+
+        Notebook heavyNotebook = new Notebook(2000, 1500, 2015);
+        System.out.println(heavyNotebook.weight + " " + heavyNotebook.price + "  " + heavyNotebook.year);
+        heavyNotebook.checkWeight();
+        heavyNotebook.checkPrice();
+        heavyNotebook.checkYear();
+
+        Notebook oldNotebook = new Notebook(1600, 500, 2013);
+        System.out.println(oldNotebook.weight + " " + oldNotebook.price + "  " + oldNotebook.year);
+        oldNotebook.checkWeight();
+        oldNotebook.checkPrice();
+        oldNotebook.checkYear();
+
     }
-}
+    }
