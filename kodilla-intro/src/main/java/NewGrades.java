@@ -10,7 +10,7 @@ public class NewGrades {
         grades.addGrades(5);
         grades.addGrades(5);
         grades.addGrades(6);
-        grades.addGrades(5);
+        grades.addGrades(6);
 
         System.out.println("Lista ocen");
         grades.display();
@@ -26,4 +26,3 @@ public class NewGrades {
         System.out.println("Srednia ocen   " + sredniaOcen);
     }
 }
-

@@ -30,11 +30,11 @@
 
     public double Average() {
          double suma = 0;
-         int size = list.length;
-        for (int i = 0; i < size; i++) {
+         int length = list.length;
+        for (int i = 0; i < length; i++) {
             suma += list[i];
         }
-        double sredniaOcen = suma / size;
+        double sredniaOcen = suma / length;
          return sredniaOcen;
      }
  }
