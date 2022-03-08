@@ -30,7 +30,7 @@
 
     public double Average() {
          double suma = 0;
-         int length = list.length;
+         int length = size;
         for (int i = 0; i < length; i++) {
             suma += list[i];
         }
