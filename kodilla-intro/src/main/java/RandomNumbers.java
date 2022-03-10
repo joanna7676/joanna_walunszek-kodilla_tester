@@ -28,8 +28,8 @@ public class RandomNumbers {
                 max = i;
             }
         }
-        System.out.println("minimum" + min + " ");
-        System.out.println("maximum" + max + " ");
+        System.out.println("minimum  " + min);
+        System.out.println("maximum  " + max);
     }
 
             }
