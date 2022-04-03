@@ -11,7 +11,7 @@ public class Calculator {
     }
 
     public int multiplication(int a) {
-        return a*a;
+        return a * a;
     }
 
 
