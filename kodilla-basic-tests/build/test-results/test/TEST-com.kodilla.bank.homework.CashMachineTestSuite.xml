@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.bank.homework.CashMachineTestSuite" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-04-12T16:24:31" hostname="LAPTOP-J2NM1B6R" time="0.081">
+  <properties/>
+  <testcase name="shouldCalculateNumberOfDeposits()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.052"/>
+  <testcase name="shouldCalculateAmountOfDebets()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.002"/>
+  <testcase name="shouldCalculateNumberOfDebets()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.005"/>
+  <testcase name="shouldCalculateAmountOfDeposits()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.004"/>
+  <testcase name="shouldAddTwoElementsToArray()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.001"/>
+  <testcase name="shouldHaveZeroLength()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.002"/>
+  <testcase name="shouldCalculateBalance()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
