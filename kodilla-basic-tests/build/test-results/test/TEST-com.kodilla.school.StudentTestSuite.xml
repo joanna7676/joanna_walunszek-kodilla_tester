@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.school.StudentTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-13T17:39:50" hostname="LAPTOP-J2NM1B6R" time="0.004">
+  <properties/>
+  <testcase name="shouldCalculateCorrectAveragesIfValuesAreInRange()" classname="com.kodilla.school.StudentTestSuite" time="0.002"/>
+  <testcase name="shouldCalculateStudentAverage()" classname="com.kodilla.school.StudentTestSuite" time="0.001"/>
+  <testcase name="shouldCalculateAveragesIfValuesAreOutsideRange()" classname="com.kodilla.school.StudentTestSuite" time="0.0"/>
+  <testcase name="averageShouldBeZeroIfStudentDontHaveGrades()" classname="com.kodilla.school.StudentTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

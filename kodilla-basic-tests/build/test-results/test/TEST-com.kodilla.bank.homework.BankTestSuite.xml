@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.bank.homework.BankTestSuite" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-04-13T17:39:49" hostname="LAPTOP-J2NM1B6R" time="0.022">
+  <properties/>
+  <testcase name="shouldCountAmountDeposit()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.015"/>
+  <testcase name="shouldCountBalance()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldCountAmountDebet()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.001"/>
+  <testcase name="shouldCountNumberOfDebet()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldCountNumberOfTransactions()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldCountAverageDebet()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldCountAverageDeposit()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldCountNumberOfDeposit()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
