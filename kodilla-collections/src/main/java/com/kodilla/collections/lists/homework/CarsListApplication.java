@@ -1,5 +1,6 @@
 package com.kodilla.collections.lists.homework;
 
+import com.kodilla.collections.arrays.homework.CarUtils;
 import com.kodilla.collections.interfaces.homework.Audi;
 import com.kodilla.collections.interfaces.homework.Car;
 import com.kodilla.collections.interfaces.homework.Ford;
@@ -22,7 +23,7 @@ public class CarsListApplication {
         System.out.println(cars.size());
 
         for (Car car : cars) {
-            System.out.println(car + " Car speed  " + car.getSpeed());
+            CarUtils.describeCar(car);
         }
     }
 }
