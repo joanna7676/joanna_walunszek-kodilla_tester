@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.exception.homework.WarehouseTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-18T16:26:25" hostname="LAPTOP-J2NM1B6R" time="0.036">
+  <properties/>
+  <testcase name="shouldThrowException()" classname="com.kodilla.exception.homework.WarehouseTestSuite" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
